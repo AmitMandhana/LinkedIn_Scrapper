@@ -1,0 +1,19 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+build/
+dist/
+*.egg-info/
+.DS_Store
+*.log
+*.sqlite3
+*.db
+*.env
+*.idea/
+.vscode/
+google_credentials.json
+google_drive.json
